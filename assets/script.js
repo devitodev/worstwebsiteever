@@ -1,3 +1,3 @@
-var penguinImage = $('.penguin-container').css('background-color', 'red')
+var penguinImage = $('.penguin-container').eq(1)
 
 console.log(penguinImage)

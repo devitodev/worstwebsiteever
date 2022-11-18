@@ -18,10 +18,14 @@ body {
     
 }
 
-.penguin-container {
+.container {
     background-color: blue;
-    width: 15px;
+    display: block;
+    height: 100px;
+    width: 100px;
+
 }
-.penguin-pic {
+
+/* .penguin-pic {
     display: none;
-}
+} */
