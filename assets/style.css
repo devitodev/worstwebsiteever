@@ -17,3 +17,7 @@ body {
     border-radius: 15px;
     
 }
+
+.penguin-pic {
+    display: none;
+}
