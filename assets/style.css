@@ -9,5 +9,11 @@ body {
 
 .website-title {
     background-color: brown;
-    width: 80%;
+    border-radius: 15px;
+}
+
+.evilbutton {
+    background-color: aqua;
+    border-radius: 15px;
+    
 }
