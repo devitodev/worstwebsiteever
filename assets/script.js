@@ -1,3 +1,6 @@
-var penguinImage = $('.penguin-container').eq(1)
+var penguinImage = $('.penguin-container').children();
 
-console.log(penguinImage)
+
+
+
+    
