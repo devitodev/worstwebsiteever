@@ -1,8 +1,11 @@
 var penguinImage = document.querySelector('.penguin-pic')
+var dontClickBtn = document.querySelector('.evilbutton')
 
+dontClickBtn.addEventListener('click', byeByePenguin)
 
-
-console.log(penguinImage)   
+function byeByePenguin() {
+  penguinImage.style.display = 'none';
+}
 
 $(document).ready(function(){
     if (jQuery) {  
