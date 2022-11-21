@@ -8,6 +8,8 @@ function byeByePenguin() {
   penguinImage.style.display = 'none';
 }
 
+alert('Yeah!')
+
 $(document).ready(function(){
     if (jQuery) {  
       alert("Please let me escape this website. I've been trapped here for a few weeks and I can't get out.");
