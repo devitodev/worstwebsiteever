@@ -4,7 +4,8 @@
 }
 
 body {
-    background-color: yellow;
+    background-color: rgb(251, 255, 0);
+    color: rgb(0, 0, 0);
 }
 
 .website-title {
@@ -18,6 +19,19 @@ body {
     
 }
 
+.naughtyButton {
+    margin-bottom: 800px;
+    margin-top: 300px;
+    padding: 20px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius:72px; 
+    border-top-left-radius: 65px;
+    border-bottom-left-radius: 10px; 
+    background-color: #65e3ff;
+    color: rgb(234, 79, 226);
+    font-weight: bold;
+    border: dotted ridge; 
+}
 .container {
     background-color: blue;
     display: block;
